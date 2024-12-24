@@ -1,6 +1,6 @@
-<H1 align ="center" > LNM Connect  </h1>
+<H1 align ="center" > LNM Interact </h1>
 <h5  align ="center"> 
-Fullstack open source blogging application made with MongoDB, Express, React & Nodejs (MERN) with the Aim to use it for college specific purposes only particular college students can access only .</h5>
+Fullstack open source blogging application made with MongoDB, Express, React & Nodejs (MERN) with the aim to use it for college specific purposes provided the condition that only particular college authorized students can access.</h5>
 <br/>
 
   * [Configuration and Setup](#configuration-and-setup)
@@ -67,9 +67,9 @@ $ node server.js (to start the backend)
 - User registration and login
 - Authentication using JWT Tokens
 - Story searching  and pagination 
-- CRUD operations (Story create, read, update and delete)
-- Upload user ımages and story ımages  to the server
-- Liking  stories to show our view
+- CRUD operations (Story Create, Read, Update and Delete)
+- Upload user ımages and story ımages to the server
+- Liking stories to show user engagement.
 - Skeleton loading effect
 - Responsive Design
 
@@ -111,7 +111,4 @@ This project was created using the following technologies.
 ####  Database 
 
  - [MongoDB ](https://www.npmjs.com/package/uuid) - It provides a free cloud service to store MongoDB collections.
- 
-
-
  
